@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../xampp/htdocs/dashboard"
+		},
+		{
+			"path": "../../../xampp/htdocs/img"
+		},
+		{
+			"path": "../../../xampp/htdocs/webalizer"
+		},
+		{
+			"path": "../../../xampp/htdocs/xampp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dashboard"
+	}
+}
